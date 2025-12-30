@@ -9,4 +9,4 @@ Ram booster tells your OS that some processes are useless on RAM so it moves it 
 
 
 ## How to setup?
-Download the ZIP and extract then run rambooster.exe to start, if it says "Windows protected your PC" click "More Info" then "Run Anyway". Optionally press Windows+R then type shell:startup and press enter. Make a new shortcut with the path being the path to rambooster.exe on your computer. This will make it run on startup
+Download the ZIP and extract then run rambooster.exe to start, if it says "Windows protected your PC" click "More Info" then "Run Anyway".
